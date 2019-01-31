@@ -6,7 +6,7 @@ I am from Ann Arbor, Michigan, but also grew up in Japan and Germany.
 
 ### **important links**
 
-You can find my LinkedIn page [here](www.linkedin.com/in/anna-thomas-391390166).
-I also have a [pottery page](claymakesmyday.weebly.com)!
+> [my LinkedIn](www.linkedin.com/in/anna-thomas-391390166).
+> [my pottery page](claymakesmyday.weebly.com)!
 
 ![image](https://github.com/AnnaKThomas/AnnaKThomas.github.io/blob/master/180529-4755.jpg?raw=true)
