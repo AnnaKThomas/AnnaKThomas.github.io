@@ -1,11 +1,6 @@
-# AnnaKThomas.github.io
-
-COMM 198 - Spring 2019
-
-
 ### **a little bit about me**
 
-My name is Anna K. Thomas and I am a Sophomore at Lehigh University studying Applied Mathematics and Computer Science.
+My name is Anna Thomas and I am a Sophomore at Lehigh University studying Applied Mathematics and Computer Science.
 I am from Ann Arbor, Michigan, but also grew up in Japan and Germany. 
 
 
