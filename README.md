@@ -8,4 +8,4 @@ I am from Ann Arbor, Michigan, but also grew up in Japan and Germany.
 
 You can find my LinkedIn page [here](www.linkedin.com/in/anna-thomas-391390166).
 
-(file:///Users/nkt/Desktop/180529-4755.jpg)
+[me](https://github.com/AnnaKThomas/AnnaKThomas.github.io/blob/master/180529-4755.jpg?raw=true)
