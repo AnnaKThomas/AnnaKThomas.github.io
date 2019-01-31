@@ -1,6 +1,6 @@
 # AnnaKThomas.github.io
 
-## COMM 198 SP19
+COMM 198 - Spring 2019
 
 ## **a little bit about me**
 
