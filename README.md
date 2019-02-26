@@ -21,4 +21,3 @@ Feel free to check out my [LinkedIn page](https://www.linkedin.com/in/anna-thoma
 ![image](https://github.com/AnnaKThomas/AnnaKThomas.github.io/blob/master/180529-4755.jpg)
 
 
-
