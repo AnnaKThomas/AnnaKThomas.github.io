@@ -9,8 +9,8 @@ I am from Ann Arbor, Michigan, but also grew up in Japan and Germany.
 
 ## Lehigh University Statistics
 
+### Google Tour
 Click [here](https://poly.google.com/view/aoWJA9-dgsL) to check out a Google Tour about the news hotspots at Lehigh.
-
 
 
 <iframe title="Chart: Tuition &amp;amp; Average Room/Board at Lehigh University" aria-describedby="This area chart shows the Tuition costs (USD) and Average cost of Room/Board (USD) between 2000 and 2017. " id="datawrapper-chart-7oRnR" src="//datawrapper.dwcdn.net/7oRnR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
