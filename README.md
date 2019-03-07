@@ -24,6 +24,6 @@ Click [here](https://poly.google.com/view/aoWJA9-dgsL) to check out a Google Tou
 
 Feel free to check out my [LinkedIn page](https://www.linkedin.com/in/anna-thomas-391390166) or my [pottery website](https://claymakesmyday.weebly.com).
 
-![image](https://github.com/AnnaKThomas/AnnaKThomas.github.io/blob/master/180529-4755.jpg)
+![image](https://github.com/AnnaKThomas/AnnaKThomas.github.io/blob/master/180529-4755.jpg?raw=true)
 
 
