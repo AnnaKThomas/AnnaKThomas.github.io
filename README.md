@@ -7,6 +7,8 @@ I am from Ann Arbor, Michigan, but also grew up in Japan and Germany.
 
 <iframe title="Chart: News Source Distribution (2017 Pew Research Center Science and News Survey)" aria-describedby="This pie chart shows the distribution of which sources are used to access news in the US." id="datawrapper-chart-kxggv" src="//datawrapper.dwcdn.net/kxggv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="438"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
+<iframe title="Chart: College and University News Websites&amp;nbsp;" aria-describedby="This bar chart visualizes each of the top 50 college and university news webpages and their respective estimated time spent on the site per visitor." id="datawrapper-chart-detDo" src="//datawrapper.dwcdn.net/detDo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="1685"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
 ## Lehigh University Statistics
 
 ### Google Tour
