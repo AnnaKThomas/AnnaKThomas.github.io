@@ -1,7 +1,9 @@
 # a little _bit_ about me
 
-My name is Anna Thomas and I am a second-year student at Lehigh University studying Applied Mathematics and Computer Science.
+<p>My name is Anna Thomas and I am a second-year student at Lehigh University studying Applied Mathematics and Computer Science.
 I am from Ann Arbor, Michigan, but also grew up in Japan and Germany. 
+
+<p>This page is a collection of the data visualizations I have created for the Data Storytelling (COMM 198) course from Spring 2019 semester.
 
 ___
 
