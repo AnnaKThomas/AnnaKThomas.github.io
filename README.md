@@ -3,7 +3,9 @@
 <p>My name is Anna Thomas and I am a second-year student at Lehigh University studying Applied Mathematics and Computer Science.
 I am from Ann Arbor, Michigan, but also grew up in Japan and Germany. 
 
-<p>This page is a collection of the data visualizations I have created for the Data Storytelling (COMM 198) course from Spring 2019 semester.
+<p>This page is a collection of the data visualizations I have created for the Data Storytelling (COMM 198) course from Spring 2019 semester.</p>
+
+
 
 # News Consumption Effects and Comparisons Between Generations 
 
@@ -11,14 +13,23 @@ I am from Ann Arbor, Michigan, but also grew up in Japan and Germany.
 
 <iframe title="Chart: College and University News Websites&amp;nbsp;" aria-describedby="This bar chart visualizes each of the top 50 college and university news webpages and their respective estimated time spent on the site per visitor." id="datawrapper-chart-detDo" src="//datawrapper.dwcdn.net/detDo/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="1685"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
+
+
 ## Lehigh University Statistics
+
+
 
 ### Google Tour
 Click [here](https://poly.google.com/view/aoWJA9-dgsL) to check out a Google Tour about the news hotspots at Lehigh.
 
+
+
+
 ### Tuition Increase
 
 <iframe title="Chart: Tuition &amp;amp; Average Room/Board at Lehigh University" aria-describedby="This area chart shows the Tuition costs (USD) and Average cost of Room/Board (USD) between 2000 and 2017. " id="datawrapper-chart-7oRnR" src="//datawrapper.dwcdn.net/7oRnR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+
 
 ### Undergrad Enrollment
 
