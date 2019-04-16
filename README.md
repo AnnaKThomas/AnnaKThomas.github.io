@@ -17,8 +17,7 @@ This page is a collection of the data visualizations I have created for the Data
 Click [here](https://poly.google.com/view/aoWJA9-dgsL) to check out a Google Tour about the news hotspots at Lehigh.
 
 
-## Lehigh University Statistics
-
+## - - - - - - - - - - - - - - - - - Lehigh University Statistics - - - - - - - - - - - - - - - - -
 
 ### Student Party Experience
 
