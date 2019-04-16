@@ -6,7 +6,7 @@ I am from Ann Arbor, Michigan, but also grew up in Japan and Germany.
 This page is a collection of the data visualizations I have created for the Data Storytelling (COMM 198) course from Spring 2019 semester.
 
 
-## ____________________________________________ COMM 198 Project ____________________________________________
+## -   -   -   -  COMM 198 Project  -   -   -   -
 ## News Consumption Effects and Comparisons Between Generations 
 
 <iframe title="Chart: News Source Distribution (2017 Pew Research Center Science and News Survey)" aria-describedby="This pie chart shows the distribution of which sources are used to access news in the US." id="datawrapper-chart-kxggv" src="//datawrapper.dwcdn.net/kxggv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="438"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
